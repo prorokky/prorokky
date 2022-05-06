@@ -4,13 +4,13 @@ Hi 👋 My name is Vladislav Gaponov
 Frontend Developer
 ------------------
 
-I study in the specialty "Informatics and Computer Engineering" at BMSTU. I have been developing frontend for 1 year of commercial experience. I started with VueJS development, then moved on to React. I worked in the companies of Sheremetyevo-Cargo JSC as a VueJS developer and SBER as a Frontend developer. In both companies I was developing fronted parts of internal applications. When working, I used VueJS, React, Redux, Leaflet REST API, GIT, Jira, Confluence, wrote dynamic and reusable components, did layout using a template from Figma.
+I study in the specialty "Informatics and Computer Engineering" at BMSTU. I have been developing frontend for 1 year of commercial experience. I started with VueJS development, then moved on to React. I worked in the companies of Sheremetyevo-Cargo JSC as a VueJS developer and SBER as a Frontend developer. In both companies I was developing fronted parts of internal applications. When working, I used VueJS, React, Redux, Leaflet, REST API, GIT, Jira, Confluence, wrote dynamic and reusable components, did layout using a template from Figma.
 
 * 🌍  I'm based in Moscow
 * ✉️  You can contact me at [vlad6005@gmail.com](mailto:vlad6005@gmail.com)
 * 🚀  I'm currently working on [Sber](http://www.sber.ru)
 * 🧠  I'm learning different frontend instruments
-* ⚡  My hobbies are playing basketball, footbal and computer games, programming differrnt things
+* ⚡  My hobbies are playing basketball, footbal and computer games. I also like to programming different things, watching and discussing movies.
 
 ### Skills
 
@@ -36,4 +36,5 @@ I study in the specialty "Informatics and Computer Engineering" at BMSTU. I have
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/prorokky/electronic-school-journal" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=prorokky&repo=electronic-school-journal&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/prorokky/electronic-school-journal" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=prorokky&repo=electronic-school-journal&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/prorokky/kts-front-2021" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=prorokky&repo=electronic-school-journal&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
