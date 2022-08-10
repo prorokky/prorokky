@@ -36,5 +36,5 @@ I have been developing frontend for 1,5 year of commercial experience. I started
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/prorokky/webpack-eslint-config" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=prorokky&repo=webpack-eslint-plugin&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/prorokky/webpack-eslint-config" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=prorokky&repo=webpack-eslint-config&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 <div width="100%" align="center"><a href="https://github.com/prorokky/kts-front-2021" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=prorokky&repo=kts-front-2021&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
