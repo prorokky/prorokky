@@ -4,7 +4,9 @@ Hi 👋 My name is Vladislav Gaponov
 Frontend Developer
 ------------------
 
-I have been developing frontend more than 1.5 years. I started with VueJS development, then moved on to React. I worked in the companies of Sheremetyevo-Cargo JSC as a VueJS developer and SBER as a Frontend developer. In both companies I was developing fronted parts of internal applications. When working, I used VueJS, React, Redux, Leaflet, REST API, Webpack, GIT, Jira, wrote dynamic and reusable components, did layout using a template from Figma and rewrote architecture of project.
+Hi, I'm Vlad! I am Frontend Devleoper.
+I have almost 2 years of commercial experience. I've started with VueJS development, then I have moved on to React.
+I worked in the Sheremetyevo-Cargo JSC as a VueJS developer and now I'm working SBER as a React Frontend developer. I was developing frontend parts of internal applications in both companies. While working I use React, Redux, Leaflet, REST API, GIT, Jira and Confluence. I've configured webpack and I've written dynamic and reusable components. I've also done layout using a template from Figma. While working, I've participated in rewriting the project architecture for microfrontends and in creating a library of UI components.
 
 * 🌍  I'm based in Moscow
 * ✉️  You can contact me at [vlad6005@gmail.com](mailto:vlad6005@gmail.com)
