@@ -5,9 +5,8 @@ Frontend Developer
 ------------------
 
 Hi, I'm Vlad! I am Frontend Devleoper.
-I have almost 2 years of commercial experience. I've started with VueJS development, then I have moved on to React.
+I have 2 years of commercial experience. I've started with VueJS development, then I have moved on to React.
 I worked in the Sheremetyevo-Cargo JSC as a VueJS developer and now I'm working SBER as a React Frontend developer. I was developing frontend parts of internal applications in both companies. While working I use React, Redux, Leaflet, REST API, GIT, Jira and Confluence. I've configured webpack and I've written dynamic and reusable components. I've also done layout using a template from Figma. While working, I've participated in rewriting the project architecture for microfrontends and in creating a library of UI components.
-Hi, I'm Vlad! I am Frontend Devleoper.
 
 * 🌍  I'm based in Moscow
 * ✉️  You can contact me at [vlad6005@gmail.com](mailto:vlad6005@gmail.com)
