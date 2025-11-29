@@ -53,7 +53,7 @@ Internal solutions based on Vue.js for airport operations and information system
 
 * **BMSTU** — Bachelor's degree Computer Engineering (2018-2022)
 * **BMSTU** — Master's degree Business Administration and Management (2022–2024)
-* **BMSTU** - Postgraduate Degree Cognitive Science (2024-nowadays)
+* **BMSTU** - Postgraduate Degree Cognitive Science (2024-present)
 
 ---
 
